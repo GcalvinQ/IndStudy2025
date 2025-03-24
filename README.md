@@ -10,8 +10,8 @@ Uses LWE encryption method and compresses the encryption image to allow for LLL 
 
 
 **Requirements for Rough Draft**
-\npip install pillow
-\npip install numpy
-\npip install sympy
-\npip install tqdm
+pip install pillow
+pip install numpy
+pip install sympy
+pip install tqdm
 
