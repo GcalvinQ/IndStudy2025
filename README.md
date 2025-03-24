@@ -15,3 +15,6 @@ pip install numpy
 pip install sympy
 pip install tqdm
 
+**Issues with Initial Rough Draft**:
+I was unable to use a noise factor using Gausian Noise (constant value sigma) when decrypting, this will be a push forward for the final draft. Also am having issues preserving the input size as well as having to use a known lattice that is 100% invertable, ran into runtime issues when creating a complete random lattice for the baasis to be constructed from. 
+
